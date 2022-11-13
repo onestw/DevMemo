@@ -1,5 +1,5 @@
 # ◆GitHubの使い方
-　　参考資料　<https://www.yoheim.net/blog.php?q=20140104>
+　　参考資料　<https://www.yoheim.net/blog.php?q=20140104>  
   　
   　git cloned URL：GitHub上のリポジトリをローカルにcloneする  
     git add ファイル名  
@@ -15,5 +15,5 @@
     　<https://tracpath.com/bootcamp/learning_tortoisegit.html>
 
 # ◆「Markdown記法」と「折りたたみ」
-　　<https://www.wakuwakubank.com/posts/861-git-markdown/>
+　　<https://www.wakuwakubank.com/posts/861-git-markdown/>  
     <https://codechord.com/2012/01/readme-markdown/>
