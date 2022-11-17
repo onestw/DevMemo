@@ -1,4 +1,4 @@
-#◆セレクター
+# ◆セレクター
 
  | セレクター名 | 選択するもの | 例 |
  | :--- | :--- | :--- |
@@ -12,11 +12,19 @@
  参考資料<https://developer.mozilla.org/ja/docs/Learn/CSS/Building_blocks/Selectors>
 
 
-#◆フォント
+# ◆フォント
   参考資料<https://fonts.google.com/>  
   ↑サイトで選択したフォントの使用方法<https://developers.google.com/fonts/docs/getting_started>  
   ・フォントファミリーに含まれるスペースはすべてプラス(∔)記号に置き換える  
   ・複数のフォントファミリーを使用する場合はパイプ文字(|)で区切る  
-  【例】https://fonts.googleapis.com/css?family=Inconsolata
-  
+  【例】https://fonts.googleapis.com/css?family=Inconsolata  
+
+# ◆CSSが反映されない場合
+  1.キャッシュが残っていないか  
+    Ctrl+F5で更新する  
+  2.CSSが機能しているか  
+    ★デベロッパーツールで確認（）  
+  3.他の記述が優先されていないか  
+  4.書いたCSSがちゃんと確認できるか  
+  5.レイアウトのミスを疑う  
   
